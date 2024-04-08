@@ -1,4 +1,4 @@
-# TC3002B - Desarrollo de aplicaciones avanzadas de ciencias computacionales 
+# TC3002B - Development of Advanced Applications of Computer Science
 
 # Scientific writing 
 
