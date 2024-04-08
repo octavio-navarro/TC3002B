@@ -32,6 +32,27 @@ peers of the author (either now or in the future) to fully comprehend and use th
 
 ![Types of papers](images/types_of_scientific_paper.png)
 
+# Getting Started
+
+here are many ways in which a research project can begin. It may be that a conversation with a colleague suggested interesting questions to pursue, or that your general interest in a topic was crystallized into a specific investigation by something learnt in a seminar, or that enrollment in a research degree forced you to identify a problem to work on. Then definite aims are stated; theories are developed or exper- iments are undertaken; and the outcomes are written up.
+
+A perspective on research is that it is the process that leads to papers and theses, because these represent our store of accepted scientific knowledge. Another perspective is that it is about having impact; by creating new knowledge, successful research changes the practices and understandings of other scientists. Our work must be adopted in some way by others if it is to be of value. Thus another part of learning to be a scientist is coming to understand that publication is not an end in itself, but is part of an ongoing collaborative enterprise.
+
+## Research projects
+
+The origin of a research investigation is typically a moment of insight. This first step is a subjective one: to choose to explore ideas that seem likely to succeed, or are intriguing, or have the potential to lead to something new, or that contradict received wisdom. At the beginning, it isn’t possible to know whether the work is novel or will lead to valuable results; otherwise there would be no scope for research. The final outcome is an objective scientific report, but curiosity and guesswork are what establish research directions.
+
+At the beginning of a research program, then, you need to establish answers to two key questions:
+
+- First, what is the broad problem to be investigated? 
+- Second, what are the specific initial activities to undertake and outcomes to pursue? 
+
+Having clear short-term research goals gives shape to a research program. It also gives some insight into the elements of research: planning, reading, programming, testing, analysis, critical thinking, writing, and presentation.
+
+When developing a topic into a research question, it is helpful to explore what makes the topic interesting. Productive research is often driven by a strong motivating example, which also helps focus the activity towards useful goals. It can be easy to explore problems that are entirely hypothetical, but difficult to evaluate the effectiveness of any solutions. Sometimes it is necessary to make a conscious decision to explore questions where work can be done, rather than where we would like to work.
+
+The fact that a topic is in a fashionable area should be at most a minor consideration; the fashion may well have passed before the student has graduated. Some trends are profound shifts that have ongoing effects, such as the opportunities created by the Web for new technologies; others are gone almost before they arrive. While it isn’t necessarily obvious which category a new trend belongs in, a topic should not be investigated unless you are confident that it will continue to be relevant.
+
 # Structure of a research paper
 
 Scientific papers follow a standard structure that allows readers to quickly discover the main results, and then, if interested, to examine the supporting evidence. Many readers accept or reject conclusions based on a quick scan, not having time to read all the papers they see. A well-structured write-up accommodates this behaviour by having important statements as near the beginning as possible. You need to:
