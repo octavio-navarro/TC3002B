@@ -129,6 +129,8 @@ A consolation is that, in an active field, other researchers have to a certain e
 - [Research rabbit](https://www.researchrabbit.ai/): ResearchRabbit is a free online "citation-based literature mapping tool". It is a visual literature review software mapping tool similar to Spotify. The tool connects your research interests with related articles and authors.
 - [Inciteful](https://inciteful.xyz/): Inciteful's goal is to provide the world with free tools to help accelerate academic research. This means catching up on a new topic, finding the latest literature, or discovering how two ideas are connected.
 
+![AI Tools](images/ai_tools.jpg)
+
 ## Critical Reading
 
 A key aim of reading is to develop critical thinking skills. Good researchers must demonstrate their ability to objectively analyze the work and claims of others. With experience, you can place each paper in a context of other work that you know, and assess it on a range of characteristics.
@@ -250,3 +252,6 @@ Search related papers to make the state of the art.
 - [Writing for computer science](https://doi.org/10.1007/978-1-4471-6639-9)
 - [How to write and publish a scientific paper](https://www.bloomsbury.com/us/how-to-write-and-publish-a-scientific-paper-9781440878824/)
 - [Literature Reviews](https://writingcenter.unc.edu/tips-and-tools/literature-reviews/)
+- [Overleaf documentation](https://www.overleaf.com/learn)
+- [Learn latex in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
+- [Bibtex reference](https://www.overleaf.com/learn/latex/Bibliography_management_with_bibtex)
