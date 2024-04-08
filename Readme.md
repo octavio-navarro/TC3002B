@@ -34,7 +34,7 @@ peers of the author (either now or in the future) to fully comprehend and use th
 
 # Getting Started
 
-here are many ways in which a research project can begin. It may be that a conversation with a colleague suggested interesting questions to pursue, or that your general interest in a topic was crystallized into a specific investigation by something learnt in a seminar, or that enrollment in a research degree forced you to identify a problem to work on. Then definite aims are stated; theories are developed or exper- iments are undertaken; and the outcomes are written up.
+There are many ways in which a research project can begin. It may be that a conversation with a colleague suggested interesting questions to pursue, or that your general interest in a topic was crystallized into a specific investigation by something learnt in a seminar, or that enrollment in a research degree forced you to identify a problem to work on. Then definite aims are stated; theories are developed or exper- iments are undertaken; and the outcomes are written up.
 
 A perspective on research is that it is the process that leads to papers and theses, because these represent our store of accepted scientific knowledge. Another perspective is that it is about having impact; by creating new knowledge, successful research changes the practices and understandings of other scientists. Our work must be adopted in some way by others if it is to be of value. Thus another part of learning to be a scientist is coming to understand that publication is not an end in itself, but is part of an ongoing collaborative enterprise.
 
@@ -53,6 +53,12 @@ When developing a topic into a research question, it is helpful to explore what 
 
 The fact that a topic is in a fashionable area should be at most a minor consideration; the fashion may well have passed before the student has graduated. Some trends are profound shifts that have ongoing effects, such as the opportunities created by the Web for new technologies; others are gone almost before they arrive. While it isn’t necessarily obvious which category a new trend belongs in, a topic should not be investigated unless you are confident that it will continue to be relevant.
 
+Most research is to some extent incremental: it improves, repairs, extends, varies, or replaces work done by others. The issue is the magnitude of the increment. A trivial step that does no more than explore an obvious solution to a simple problem— a change, say, to the fields in a network packet to save a couple of bits—is unlikely to be worth investigating. There needs to be challenge and the possibility of unexpected discovery for research to be interesting.
+
+Some research is concerned with problems that appear to be solved in commercial or production software. Often, however, research on such problems can be justified. In a typical commercial implementation the task is to find a workable solution, while in research the quality of that solution must be measured, and thus work on the same problem that produces similar solutions can nonetheless have different outcomes. Moreover, while it is in a company’s interests to claim that a problem is solved by their technology, such claims are not easily verified. In some cases, investigation of a problem for which there is already a commercial solution can be of as much value as investigation of a problem of purely academic interest.
+
+![Acedemic distribution](images/academic_distribution.png)
+
 # Structure of a research paper
 
 Scientific papers follow a standard structure that allows readers to quickly discover the main results, and then, if interested, to examine the supporting evidence. Many readers accept or reject conclusions based on a quick scan, not having time to read all the papers they see. A well-structured write-up accommodates this behaviour by having important statements as near the beginning as possible. You need to:
@@ -65,6 +71,12 @@ Scientific papers follow a standard structure that allows readers to quickly dis
 Theses, journal articles, and conference papers have much the same organization when viewed in outline. There are distinctions in emphasis rather than in specific detail. For a thesis, for example, the literature review may be expected to include a historical discussion outlining the development of the key ideas. There is also an expectation that a thesis is a completed, rounded piece of work—a consolidation of the achievements of a research program as well as a report on specific scientific results. Nonetheless, these forms of write-up have similar structure.
 
 # Reading and selecting papers 
+
+A novice researcher can believe that the doing of research is primarily about investigation—running experiments, developing theory, or doing analysis. With experience, though, researchers discover the **importance of developing an understanding**. It has been argued that many experimental researchers do their best work after they have been in a field for five years or more, because it takes time to acquire a deep, thorough appreciation of the area, and of existing knowledge and its limitations. To acquire this understanding, you need to become an effective reader of research papers.
+
+A successful reader can identify the contributions and value of a paper, while recognizing its flaws; and uses critical scrunity to identify the extent to which the flaws in a paper are serious. This reading then informs new work, directly as a source of knowledge and indirectly as a guide to how to produce work that will be appreciated.
+
+Reviewing is a central part of the scientific process. Criticism and analysis of papers writtenbyother scientists is themainmechanismfor identifyinggoodresearch and eliminating bad, and is arguably as important an activity as research itself. 
 
 By the time your research is complete, you need to be confident that you have read and understood all of the scientific literature that has a significant connection to your work. Your reading achieves several aims:
 
@@ -93,7 +105,9 @@ Expect to have a range of modes of reading:
 - Background reading of texts and popular science magazines.
 - Thorough, focused reading of key or complex papers that stretch your abilities or the limits of your understanding.
 
-But don’t allow reading to develop into a form of procrastination—it needs to be part of a productive cycle of work, not a dominant use of time.
+But don’t allow reading to develop into a form of procrastination—it needs to be part of a productive cycle of work, not a dominant use of time. 
+
+![Reading papers](images/reading_papers.jpg)
 
 # Literature review
 
